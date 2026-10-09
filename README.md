@@ -1,24 +1,26 @@
-# Pixel Perfect View
+# Family Tree Management System
 
-Implement exactly the screenshot and nothing else
+A web application for managing and visualizing family relationships in a structured family tree.
 
-This project was built with [Lovable](https://lovable.dev).
+## Features
 
-## Build with Lovable
+* View and manage family relationships.
+* Explore family members and their connections.
+* User-friendly web interface.
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/7e2964f2-cfc8-4bd8-84f0-82dda29c01f6).
+## Built With
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+This project was initially created using [Lovable](https://lovable.dev) and further modified locally.
+
+## Run Locally
+
+Make sure you have Node.js and npm installed.
+
+```bash
+npm install
+npm run dev
+```
 
 ## Development
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+The source code is maintained in this GitHub repository.
